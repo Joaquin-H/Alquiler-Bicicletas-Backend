@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f6023d4-f04e-4f9b-a168-b1d33eaf0533" name="Changes" comment="se cambio un pequeño detalle serviceAlquiler">
+      <change beforePath="$PROJECT_DIR$/Alquileres/src/main/java/com/microservice/Alquileres/Servicios/AlquileresServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alquileres/src/main/java/com/microservice/Alquileres/Servicios/AlquileresServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alquileres/src/main/java/com/microservice/Alquileres/dto/AlquileresResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alquileres/src/main/java/com/microservice/Alquileres/dto/AlquileresResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bicicletas.db" beforeDir="false" afterPath="$PROJECT_DIR$/bicicletas.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YaiPEYIf6gPyrejjpYVw0AtsEn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/Kevin/Desktop/tpi-bda-g12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Kevin\Desktop\tpi-bda-g12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Kevin\Desktop\tpi-bda-g12" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AlquileresApplication">
+    <configuration name="AlquileresApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Alquileres" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Alquileres.AlquileresApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSecurity" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservice.gateaway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.gateaway.microservice.gateaway.AppSecurity" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstacionesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Estaciones" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Estaciones.EstacionesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f6023d4-f04e-4f9b-a168-b1d33eaf0533" name="Changes" comment="" />
+      <created>1700770064494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700770064494</updated>
+      <workItem from="1700770065609" duration="1441000" />
+      <workItem from="1700774219473" duration="6502000" />
+    </task>
+    <task id="LOCAL-00001" summary="revisar punto 3 y 4, primera version">
+      <option name="closed" value="true" />
+      <created>1700771482360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700771482360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="se cambio un pequeño detalle serviceAlquiler">
+      <option name="closed" value="true" />
+      <created>1700780045504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700780045504</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revisar punto 3 y 4, primera version" />
+    <MESSAGE value="se cambio un pequeño detalle serviceAlquiler" />
+    <option name="LAST_COMMIT_MESSAGE" value="se cambio un pequeño detalle serviceAlquiler" />
+  </component>
+</project>
